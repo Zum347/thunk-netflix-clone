@@ -1,4 +1,3 @@
-# React + Vite
 # Netflix Clone Projesi
 # kütüphaneler
 - react-router-dom
